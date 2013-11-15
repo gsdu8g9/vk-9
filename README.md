@@ -1,0 +1,4 @@
+vk
+==
+
+API FOR SEND QUERY TO VK.COM | PHP
