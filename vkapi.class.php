@@ -1,11 +1,11 @@
 <?php
 /*
- * LICENCE
- *
- *
- *
- *
- *
+ * LICENCE GPL v2
+ * LAST UPDATE 15/11/2013
+ * CREATED BY SEVERSITER_1
+ * 
+ * Bug report to ilya310300@mail.ru
+ * 
  */
 
 class VkApi{
